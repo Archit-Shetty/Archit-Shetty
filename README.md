@@ -1,5 +1,6 @@
 ## Hello, I'm Archit Shetty
 Passionate about driving innovation and solving real-world challenges through advanced computer science and engineering.
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername)
 <!--
 **Archit-Shetty/Archit-Shetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
