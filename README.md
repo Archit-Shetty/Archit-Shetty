@@ -5,11 +5,6 @@
 </p>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
 
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/0*x4rQFjfi0iK3gS1T.gif" alt="abstract coding gif" width="850" height="350" />
-</div>
-
-
 <h2 align="center">About Me 🚀</h2>
 
 - 🔭 I’m currently studying in **3rd year of Computer Science and Engineering**
