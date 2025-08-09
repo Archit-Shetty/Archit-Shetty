@@ -7,7 +7,7 @@
 
 <h2 align="center">About Me 🚀</h2>
 
-- 🔭 I’m currently studying in **3rd year of Computer Science and Engineering**
+- 🔭 I’m currently studying in **4th year of Computer Science and Engineering**
 - 💬 I'm interested in **Artificial Intelligence** and **Web Development**
 - ⚡ I love exploring New Tech Gadgets📱, Games🎮 and Music🎧!
 
