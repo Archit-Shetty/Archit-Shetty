@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently studying in **4th year of Computer Science and Engineering**
 - 💬 I'm interested in **Artificial Intelligence** and **Web Development**
-- ⚡ I love exploring New Tech Gadgets📱, Games🎮 and Music🎧!
 
 <h2 align="center">Skills 🛠️</h2>
 <div align="center">
